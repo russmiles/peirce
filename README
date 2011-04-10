@@ -1,0 +1,29 @@
+Peirce* - Continuous Delivery for Everyone
+
+Peirce is a pragmatic platform of tools for continuous delivery of great quality, reliable software that delivers business benefit to those who commissioned it.      
+
+Inspired by Chris Read's definition of DevOps as summarised in Stephen Nelson Smith's post[1] "However, there's still a gaping hole in what Chris Read calls 'the last mile'. The thing is, 'dev complete' is a long long way from 'live, in production, stable, making money'." Peirce is aiming to be a tool for bridging that last mile.   
+
+Why "for Everyone"?
+-------------------
+While excellent tools are beginning to appear that turn continuous delivery into reality, we believe that the best tools for software development benefit from being free and open. That's why Peirce
+
+Agile Operations
+----------------    
+TBD
+
+Agile Infrastructure
+--------------------
+Although Peirce will happily orchestrate and make transparent delivery onto traditional infrastructure, it really comes into it's own when it comes to delivery to agile infrastructure, typically implemented using newly commoditised and on-demand infrastructure, services and platforms. In a nutshell, when you're using a cloud delivery option. 
+
+Don't forget about communication!
+---------------------------------
+At the heart of the DevOps movement is greater communication and collaboration between operations responsibilities and the development teams. While Peirce aims to provide all the transparency and tooling to make this communication as easy as possible, DevOps still requires a cultural shift in many software development systems in order to overcome the wasteful silos between operations and development. Peirce enables greater communication and collaboration but it's up to you to make that part of how you work and in order to fully overcome 'the last mile'.
+
+Why "Peirce"?
+-------------
+
+"Charles Sanders Peirce, a logician, semiotician, and philosopher, first developed the notion of pragmatism as a theory of meaning, a way of clarifying terms used in philosophic debate. Peirce claimed that when one understands "all the conceivable experimental phenomena which the affirmation or denial of a concept could imply," one understands the definition of that concept. Peirce was attempting to force otherwise unending metaphysical speculation to come to terms with the effects and consequences of philosophic debate—to arrive at agreement as to the meaning of concepts by bringing those concepts into the shared realm of common experience."
+
+Read more: American Philosophies - Pragmatism - Peirce, Dewey, James, Pragmatic, Philosophic, and Philosopher http://science.jrank.org/pages/10658/American-Philosophies-Pragmatism.html#ixzz1J8rDk1nA"[2]
+
